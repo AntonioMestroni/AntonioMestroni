@@ -34,4 +34,3 @@ Soy estudiante de Licenciatura en Economía con 1 año de experiencia en anális
 | [Análisis de Alquileres en Capital Federal](https://github.com/Felimartinez1/Departamentos-Buenos-Aires) | Este proyecto realiza extracción (web scraping), procesamiento y visualizacion de datos sobre departamentos en alquiler en la Ciudad de Buenos Aires, utilizando fuentes como Zonaprop y Remax. | Python, Power BI, Machine Learning |
 | [Análisis de salarios en IT](https://github.com/AntonioMestroni/ProyectoExcelSalarios) | Proyecto de análisis de salarios del sector de la programación, donde se realizó una limpieza y estructuración de un dataset llevandolo a brindar insights clave, tablas de busqueda y un dashboard interactivo realizado mediante herramientas avanzadas de Excel. | Excel |
 
----
